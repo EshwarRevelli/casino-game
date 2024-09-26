@@ -1,4 +1,4 @@
-## 🎰 Casino Game - README
+## 🎰 Casino Game
 
 Welcome to the **Casino Game**! This is a fun, interactive console-based number guessing game where three players can bet on numbers and win big! 🤑
 
